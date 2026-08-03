@@ -9,7 +9,6 @@ Content:
 
 import sys
 
-import numpy as np
 import cv2
 
 # Example: Convert an image to grayscale

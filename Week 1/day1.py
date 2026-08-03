@@ -17,9 +17,11 @@ my_int = 42
 my_float = 3.14
 print(type(my_string), type(my_int), type(my_float))
 
+
 # Practice: Write a function that checks if a number is even or odd.
 def check_even_odd(number):
     return "Even" if number % 2 == 0 else "Odd"
+
 
 # Call the function
 print(check_even_odd(10))  # Example usage

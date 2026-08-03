@@ -1,4 +1,4 @@
-#Day 3: Intro to Numpy
+# Day 3: Intro to Numpy
 # Video Link: [Insert Link Here]
 # Documentation here for more functions and things to try
 # Challenge problem
